@@ -80,7 +80,7 @@ My long-term direction is DevOps and Cloud Engineering, combining automation, in
 
 ### 🤝 Connect With Me
 
-- LinkedIn: [Prathibha Dariya](https://www.linkedin.com/in/prathibha-dariya)
+- LinkedIn: - LinkedIn: [Prathibha Dariya](https://www.linkedin.com/in/prathibha-dariya-9510b3236)
 - Email: dariyaprathibha@gmail.com
 - GitHub: @dariyaprathibha
 
